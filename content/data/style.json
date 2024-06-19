@@ -4,19 +4,19 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#0804F6",
-    "onPrimary": "#FBFFF2",
-    "secondary": "#FE491F",
+    "primary": "#85b764",
+    "onPrimary": "#754b92",
+    "secondary": "#754b92",
     "onSecondary": "#050806",
     "complementary": "#565862",
-    "onComplementary": "#FBFFF2",
+    "onComplementary": "#754b92",
     "fontBody": "fontPrimary",
     "h1": {
         "size": "6xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tight"
     },
     "h2": {
         "size": "5xl",
