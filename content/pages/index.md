@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: repeat-y
-  opacity: 25
+  opacity: 18
 sections:
   - elementId: ''
     colors: colors-d
