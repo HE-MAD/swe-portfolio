@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: welcome! i'm evan mcintyre
-    subtitle: I am a software engineer
+    subtitle: I'm your next software developer and artist!
     styles:
       self:
         height: auto
