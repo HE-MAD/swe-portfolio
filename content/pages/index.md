@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 25
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: welcome! i'm evan mcintyre
     subtitle: I'm your next software developer and artist!
