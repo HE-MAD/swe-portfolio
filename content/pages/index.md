@@ -46,7 +46,9 @@ sections:
     media:
       type: ImageBlock
       url: /images/me_with_illos.png
-      altText: altText of the image
+      altText: >-
+        image of Evan McIntyre with original illustrations of bad birds sitting
+        around him
       caption: Caption of the image
       elementId: ''
   - colors: colors-c
