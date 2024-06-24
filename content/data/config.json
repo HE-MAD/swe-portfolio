@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "evan mcintyre",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
